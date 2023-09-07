@@ -1,0 +1,33 @@
+{
+    "comments": [
+        {
+            "id": 1,
+            "title": "Yorum 1",
+            "content": "Bu bir örnek yorumdur.",
+            "replies": [
+                {
+                    "id": 1,
+                    "title": "Yorum 1'e Yanıt 1",
+                    "content": "Bu bir yanıt yorumudur."
+                },
+                {
+                    "id": 2,
+                    "title": "Yorum 1'e Yanıt 2",
+                    "content": "Bu da bir yanıt yorumudur."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Yorum 2",
+            "content": "Bu başka bir örnek yorumdur.",
+            "replies": [
+                {
+                    "id": 3,
+                    "title": "Yorum 2'ye Yanıt 1",
+                    "content": "Bu da bir yanıt yorumudur."
+                }
+            ]
+        }
+    ]
+}
